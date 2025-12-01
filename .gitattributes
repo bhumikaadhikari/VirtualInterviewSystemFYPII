@@ -1,2 +1,9 @@
 *.h5 filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
+Bhumi_fyp/Speech[[:space:]]emotion/data_path.csv filter=lfs diff=lfs merge=lfs -text
+Bhumi_fyp/Speech[[:space:]]emotion/emotion.csv filter=lfs diff=lfs merge=lfs -text
+Bhumi_fyp/emotion_detection_model.h5 filter=lfs diff=lfs merge=lfs -text
+Bhumi_fyp/facial_emotion_recogination/ferNet.h5 filter=lfs diff=lfs merge=lfs -text
+Bhumi_fyp/facial_emotion_recogination/fernet_bestweight.h5 filter=lfs diff=lfs merge=lfs -text
+Bhumi_fyp/Speech[[:space:]]emotion/CNN_model_weights.h5 filter=lfs diff=lfs merge=lfs -text
+Bhumi_fyp/Speech[[:space:]]emotion/best_model1_weights.h5 filter=lfs diff=lfs merge=lfs -text
